@@ -1,4 +1,4 @@
-# Raganork-MD
+# Hans-MD
 
 <p align="center">
   <a href="https://rgnk.site">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-A lightweight WhatsApp bot framework with multi-session support and extensive configuration options. Complete rewrite of the original Raganork project for better stability and performance.
+A lightweight WhatsApp bot framework with multi-session support and extensive configuration options. Complete rewrite of the original Raganork-MD project for better stability and performance.
 
 ## Get Started
 
@@ -52,8 +52,8 @@ A lightweight WhatsApp bot framework with multi-session support and extensive co
 
 ```bash
 npm install -g yarn pm2
-git clone https://github.com/souravkl11/raganork-md.git
-cd raganork-md
+git clone https://github.com/loginlogout340-hash/hans-md2.git
+cd hans-md
 ```
 
 ### Install Dependencies
@@ -106,10 +106,10 @@ npm start
 
 ```bash
 # Stop bot
-pm2 stop raganork-md
+pm2 stop hans-md
 
 # Restart bot
-pm2 restart raganork-md
+pm2 restart hans-md
 ```
 
 ## Commands
@@ -124,7 +124,7 @@ Default prefix: `.`
 ## File Structure
 
 ```
-raganork-md/
+hans-md/
 ├── plugins/     # Bot plugins
 ├── core/        # Core libraries
 ├── output/      # Operational outputs
@@ -136,8 +136,8 @@ raganork-md/
 
 ## Support
 
-- [Telegram Group](https://t.me/raganork_in)
-- [Official Website](https://raganork.live)
+- [Telegram Group]()
+- [Official Website](https://hans.live)
 
 ## Legal Notice
 
@@ -155,3 +155,6 @@ GPL License - See LICENSE file for details.
 ---
 
 **Note:** Some files are obfuscated for security reasons and should not be modified.
+
+---
+Hans-MD is a modified copy of Raganork-MD by Sourav K (https://github.com/souravkl11/raganork-md), licensed under GPL-3.0. Modified by Theophilus Hanson, 2026.
