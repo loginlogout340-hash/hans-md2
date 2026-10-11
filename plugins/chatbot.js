@@ -12,7 +12,7 @@ const chatbotStates = new Map();
 const chatContexts = new Map();
 
 let globalSystemPrompt =
-  "You are a helpful AI assistant named Raganork. Be concise, friendly, and informative.";
+  "You are a helpful AI assistant named Hans. Be concise, friendly, and informative.";
 
 async function initChatbotData() {
   try {
