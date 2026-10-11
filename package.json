@@ -1,19 +1,19 @@
 {
-  "name": "raganork-md",
+  "name": "hans-md",
   "version": "6.3.0",
   "description": "A multi functional wa bot.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start index.js --name raganork-md --attach"
+    "start": "pm2 start index.js --name hans-md --attach"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "baileys",
-    "raganork"
+    "hans"
   ],
-  "author": "Sourav K",
+  "author": "Theophilus Hanson (based on Raganork-MD by Sourav K)",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.1",
