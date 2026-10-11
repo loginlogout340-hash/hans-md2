@@ -21,7 +21,7 @@ async function isGitRepo() {
 
 async function getRemoteVersion() {
   try {
-    const remotePackageJsonUrl = `https://raw.githubusercontent.com/souravkl11/raganork-md/main/package.json`;
+    const remotePackageJsonUrl = `https://raw.githubusercontent.com/loginlogout340-hash/hans-md2/main/package.json`;
     const response = await axios.get(remotePackageJsonUrl);
     return response.data.version;
   } catch (error) {
